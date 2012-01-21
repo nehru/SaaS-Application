@@ -1,0 +1,39 @@
+-- Select Department --
+Software Engineering-1
+Computer Engineering-2
+Computer Science-3
+Mechanical Engineering-4
+Civil Engineering-5
+Business Administration-6
+Chemical Engineering-7
+Chemistry-8
+Physics-9
+Psychology-10
+Biology-11
+BioMedical Engineering-12
+Medicine-13
+Asian American Studies-14
+Advertising-15
+Aerospace Engineering-16
+African American Studies-17
+African Studies-18
+American Studies-19
+Anthropology-20
+Applied Sciences & Arts-21
+Art Education-22
+Art-23
+Art History-24
+Aerospace Studies-25
+Asian Studies-26
+Astronomy-27
+Intercollegiate Athletics-28
+Aviation-29
+Biology-30
+Botany-31
+Business Graduate Program-32
+Business: Acct & Finance-33
+Business: Marketing-34
+Business: Org & Mgmt-35
+Business: Mgmt Info Sys-36
+Electrical Engineering-37
+English-38

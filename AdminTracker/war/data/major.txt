@@ -1,0 +1,8 @@
+-- Select Major --
+MS
+BS
+MA
+BA
+MD
+MBA
+PhD

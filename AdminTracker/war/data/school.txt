@@ -1,0 +1,19 @@
+-- Select School --
+San Jose State University-1001
+Stanford University-1002
+University of California, Berkeley-1003
+University of Califirnia, Los Angeles-1004
+University of Califirnia, Santa Barbara-1005
+University of Califirnia, Santa Cruz-1006
+University of Califirnia, Davies-1007
+Santa Clara University-1008
+University of Califirnia, San Diego-1009
+Michigan State University-1010
+Ohio State University-1011
+Wright State University-1012
+University of Arizona-1013
+University of Phoenix-1014
+University of Noth Alabama-1015
+University of South Alabama-1016
+University of Northern Colorado-1017
+University of the Rockies-1018

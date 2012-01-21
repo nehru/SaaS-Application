@@ -1,0 +1,8 @@
+
+Accepted
+Applied
+Received
+Reviewed
+Cancelled
+Requested
+Denied

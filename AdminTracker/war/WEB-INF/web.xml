@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+
+	<!-- Servlets -->
+
+	<servlet>
+		<servlet-name>RegistrationService</servlet-name>
+		<servlet-class>com.admintracker.server.RegistrationServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>RegistrationService</servlet-name>
+		<url-pattern>/admintracker/register</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>LoginService</servlet-name>
+		<servlet-class>com.admintracker.server.LoginServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>LoginService</servlet-name>
+		<url-pattern>/admintracker/login</url-pattern>
+	</servlet-mapping>
+
+
+	<servlet>
+		<servlet-name>GuiDataService</servlet-name>
+		<servlet-class>com.admintracker.server.GuiDataServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>GuiDataService</servlet-name>
+		<url-pattern>/admintracker/guidata</url-pattern>
+	</servlet-mapping>
+
+
+	<servlet>
+		<servlet-name>StudentDataService</servlet-name>
+		<servlet-class>com.admintracker.server.StudentDataServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>StudentDataService</servlet-name>
+		<url-pattern>/admintracker/studentdata</url-pattern>
+	</servlet-mapping>
+
+
+
+	<servlet>
+		<servlet-name>RegistararDataService</servlet-name>
+		<servlet-class>com.admintracker.server.RegistararDataServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>RegistararDataService</servlet-name>
+		<url-pattern>/admintracker/univ</url-pattern>
+	</servlet-mapping>
+
+
+	<servlet>
+		<servlet-name>AdminDataService</servlet-name>
+		<servlet-class>com.admintracker.server.AdminDataServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>AdminDataService</servlet-name>
+		<url-pattern>/admintracker/admin</url-pattern>
+	</servlet-mapping>
+
+<servlet>
+		<servlet-name>ImageDataService</servlet-name>
+		<servlet-class>com.admintracker.server.ImageDataServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ImageDataService</servlet-name>
+		<url-pattern>/admintracker/imagedata</url-pattern>
+	</servlet-mapping>
+
+<servlet>
+    <servlet-name>imgServlet</servlet-name>
+    <servlet-class>com.admintracker.server.ImageServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>imgServlet</servlet-name>
+    <url-pattern>/admintracker/imgload</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+    <servlet-name>imgSource</servlet-name>
+    <servlet-class>com.admintracker.server.ImageSource</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>imgSource</servlet-name>
+    <url-pattern>/admintracker/imgsource</url-pattern>
+  </servlet-mapping>
+
+
+<servlet>
+    <servlet-name>advimgServlet</servlet-name>
+    <servlet-class>com.admintracker.server.AdvImageServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>advimgServlet</servlet-name>
+    <url-pattern>/admintracker/adver</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+    <servlet-name>AdvImgSource</servlet-name>
+    <servlet-class>com.admintracker.server.AdvImageServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>AdvImgSource</servlet-name>
+    <url-pattern>/admintracker/adverImg</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+    <servlet-name>advImgSource1</servlet-name>
+    <servlet-class>com.admintracker.server.AdvImageSource</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>advImgSource1</servlet-name>
+    <url-pattern>/admintracker/addimgsource</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+    <servlet-name>mailService</servlet-name>
+    <servlet-class>com.admintracker.server.MailServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>mailService</servlet-name>
+    <url-pattern>/admintracker/mail</url-pattern>
+  </servlet-mapping>
+
+
+
+
+	<!-- Default page to serve -->
+	<welcome-file-list>
+		<welcome-file>AdminTracker.html</welcome-file>
+	</welcome-file-list>
+
+
+
+
+
+
+</web-app>

@@ -1,0 +1,81 @@
+
+Introduction to Symbolic Programming
+Matlab for Programmers
+Pascal for Programmers
+C for Programmers
+C++ for Programmers
+JAVA for Programmers
+Python for Programmers
+Data Structures
+Machine Structures
+Individual Study and Research for Undergraduates
+Computer Security
+Programming Languages and Compilers
+User Interface Design and Development
+Introduction to Embedded Systems
+Operating Systems and System Programming
+Computer Architecture and Engineering
+The Digital World and Society
+Programming Concepts and Methodology
+Computer Engineering I
+Object-Oriented Concepts and Methodology
+Programming Concepts and Problem Solving
+Assembly Language Programming
+Introduction to Digital Electronics
+Computer Organization and Architecture
+Digital Design I	 
+Digital Design II
+Algorithms and Data Structure Design
+Microprocessor Design I
+Advanced Algorithm Design
+Software Engineering I
+Software Engineering II
+Wireless Mobile Software Engineering
+Database Systems I
+Computer Architecture and Design
+Operating Systems Design
+Embedded Microprocessor System Design
+Computer Networks I
+Compiler Design
+Software Engineering Process Management
+Enterprise Software Platforms	 
+Individual Studies
+Software Quality Testing
+Senior Computer Engineering Design Project I
+Senior Computer Engineering Design Project II
+Cooperative Education Project
+Technology and Civilization
+Computer Architecture
+Software Systems Engineering
+Software Engineering Management
+Computer Network Design
+Network Programming and Application
+Network Architecture and Protocols
+Network Security
+System Software
+Database Systems
+Distributed Systems
+Advanced Microcomputer Design
+Embedded Hardware Design
+Embedded Software
+Embedded Wireless Architecture
+Real Time Computer System
+Embedded Multimedia Architecture
+High Speed Digital System Design
+Information Engineering
+Enterprise Software Overview
+Enterprise Distributed Systems
+Business Intelligence Technologies
+Enterprise Software Components
+XML for E-Business
+Mobile Technologies for Enterprise Applications
+Software Engineering Processes
+Software Quality Assurance and Testing
+Computer Engineering Seminar
+Master Project I
+Master Project II
+Special Topics in Computer Engineering
+Special Problems
+Computer/Software Engineering Internship
+Master Thesis I
+Master Thesis II

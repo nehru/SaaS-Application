@@ -1,0 +1,13 @@
+com.admintracker.client.guidata.GuiDataService, false, false, false, false, _, 351620463
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.ui.ChangeListenerCollection, true, true, false, false, com.google.gwt.user.client.ui.ChangeListenerCollection/687647911, 687647911
+com.google.gwt.user.client.ui.ClickListenerCollection, true, true, false, false, com.google.gwt.user.client.ui.ClickListenerCollection/3821115695, 3821115695
+com.google.gwt.user.client.ui.FocusListenerCollection, true, true, false, false, com.google.gwt.user.client.ui.FocusListenerCollection/666063950, 666063950
+com.google.gwt.user.client.ui.KeyboardListenerCollection, true, true, false, false, com.google.gwt.user.client.ui.KeyboardListenerCollection/1999488875, 1999488875
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.Integer, true, true, false, false, java.lang.Integer/3438268394, 3438268394
+java.lang.Number, true, false, false, false, java.lang.Number/300033342, 300033342
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.util.ArrayList, true, true, false, false, java.util.ArrayList/3821976829, 3821976829
